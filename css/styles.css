@@ -21,11 +21,12 @@ a {
 }
 .header-logo .logo-part {
   color: #2e2f42;
-
-  .footer-logo .logo-part {
-    color: #f4f4fd;
-  }
 }
+
+.footer-logo .logo-part {
+  color: #f4f4fd;
+}
+
 .nav-link {
   font-weight: 500;
   font-size: 16px;
