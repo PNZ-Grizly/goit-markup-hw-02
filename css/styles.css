@@ -23,7 +23,8 @@ a {
   color: #2e2f42;
 }
 
-.footer-logo .logo-part {
+.footer-logo .logo-part,
+.footer-text {
   color: #f4f4fd;
 }
 
@@ -51,4 +52,8 @@ a {
 }
 .page-footer {
   background-color: #2e2f42;
+}
+
+button {
+  font-family: inherit;
 }
