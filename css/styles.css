@@ -64,6 +64,7 @@ a {
 }
 
 button {
+  cursor: pointer;
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
@@ -71,6 +72,11 @@ button {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+}
+.btn-order:hover,
+.btn-order:focus {
+  color: #4d5ae5;
+  background: #404bbf;
 }
 
 .benefits-subtitle {
