@@ -47,11 +47,17 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
+}
+
+.footer-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .page-footer,
@@ -112,13 +118,16 @@ button {
   background-color: #f4f4fd;
 }
 
+.subject {
+  text-transform: capitalize;
+  text-align: center;
+}
+
 .team-title,
 .portfolio-title {
-  text-transform: capitalize;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
 
