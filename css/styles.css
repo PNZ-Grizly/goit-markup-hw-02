@@ -118,13 +118,10 @@ button {
   background-color: #f4f4fd;
 }
 
-.subject {
-  text-transform: capitalize;
-  text-align: center;
-}
-
 .team-title,
 .portfolio-title {
+  text-transform: capitalize;
+  text-align: center;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
