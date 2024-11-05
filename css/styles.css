@@ -13,6 +13,8 @@ a {
   text-decoration: none;
 }
 
+/* #region heder+footer */
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -92,6 +94,8 @@ button {
   background-color: #404bbf;
 }
 
+/* #region benefits */
+
 .benefits-title {
   font-size: 20px;
   line-height: 1.2;
@@ -109,6 +113,8 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+/* #region team */
 
 .team-item {
   background-color: #fff;
@@ -142,6 +148,8 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
 }
+
+/* #region portfolio */
 
 .portfolio-subtitle {
   font-weight: 500;
